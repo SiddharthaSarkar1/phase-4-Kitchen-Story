@@ -1,0 +1,19 @@
+#c1{
+    text-align: center;
+    background-color: beige;
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#topHeading{
+    font-size: 82px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#370942, #083b25, rgb(102, 65, 65), #80d106, #f27024, #5e0e09, #e8ff1c, #333, #a81cff, #f0487d, #1c1819);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
